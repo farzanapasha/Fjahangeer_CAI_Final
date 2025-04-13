@@ -21,13 +21,3 @@ terrafrom apply
 terraform destroy
 ```
 
-# 🚀 AWS Infrastructure Automation with Terraform
-
-## 📌 Overview
-
-This project demonstrates how to automate the provisioning of AWS infrastructure using **Terraform**, focusing on Infrastructure as Code (IaC) best practices. The infrastructure includes a custom VPC, EC2 instances, S3 bucket for remote state, and DynamoDB for state locking.
-
----
-
-## 📁 Project Structure
-
