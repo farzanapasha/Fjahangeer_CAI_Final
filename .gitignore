@@ -1,0 +1,6 @@
+# Ignoring specific Terrafrom file
+.terraform/
+.terraform.lock.hcl
+
+# Local .terraform directories
+**/.terraform/*
